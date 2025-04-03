@@ -1,0 +1,16 @@
+name: MCSMCommand
+version: '${version}'
+main: com.gmail.necnionch.myplugin.mcsmcommand.bukkit.MCSMCommandPlugin
+api-version: '1.13'
+author: Necnion8
+website: https://github.com/Necnion8/MCSMCommand
+
+commands:
+  "mcsmcommand":
+    permission: mcsmcommand.permission.mcsmc
+    aliases:
+      - mcsmc
+
+permissions:
+  mcsmcommand.permission.mcsmcommand:
+    default: op

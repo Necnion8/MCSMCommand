@@ -1,0 +1,9 @@
+
+# MCSManager api url
+api-url: http://localhost:23333
+
+# MCSManager api key
+api-key:
+
+# daemon id
+daemon-id: a07ffb11e23548549a6292c8fa31cab1
