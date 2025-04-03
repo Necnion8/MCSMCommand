@@ -6,4 +6,4 @@ api-url: http://localhost:23333
 api-key:
 
 # daemon id
-daemon-id: a07ffb11e23548549a6292c8fa31cab1
+daemon-id:
